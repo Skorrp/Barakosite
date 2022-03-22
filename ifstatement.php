@@ -8,7 +8,7 @@ $title = "If Statements";
     <br><br>
         Weight: <input type="number" name="weight">
         <br>
-        <button type="button" class="btn btn-secondary">Submit</button>
+        <button type="submit" class="btn btn-secondary">Submit</button>
     </form>
 
   </script>
